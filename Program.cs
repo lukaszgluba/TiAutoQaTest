@@ -75,9 +75,6 @@
                 Console.WriteLine($"Triagle {outputString(isRightTriangle(a, b, c))} 'Right'");
                 Console.WriteLine();
                 Console.WriteLine($"Perimeter: '{perimeter(a, b, c)}'");
-                Console.WriteLine(perimeter(a, b, c));
-                Console.WriteLine(Math.Floor(perimeter(a, b, c)));
-                Console.WriteLine(Convert.ToInt32(perimeter(a, b, c)));
                 Console.WriteLine();
                 Console.WriteLine("Parity numbers in range from 0 to triangle perimeter:");
                 Console.WriteLine();
